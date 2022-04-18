@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Catagories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indoor3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Outdoor6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GreenHouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="insertproduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsertStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indoor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indoor2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indoor4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indoor5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indoor6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Orderlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Outdoor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Outdoor1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Outdoor2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Outdoor3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Outdoor4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Outdoor5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Productlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Seditprofile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SOrderList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SProductList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateProductList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
